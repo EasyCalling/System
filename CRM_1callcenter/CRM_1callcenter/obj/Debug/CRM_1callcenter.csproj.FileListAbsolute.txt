@@ -1,0 +1,11 @@
+D:\GitProject\1callcenter\CRM_1callcenter\CRM_1callcenter\bin\Debug\CRM_1callcenter.exe.config
+D:\GitProject\1callcenter\CRM_1callcenter\CRM_1callcenter\bin\Debug\CRM_1callcenter.exe
+D:\GitProject\1callcenter\CRM_1callcenter\CRM_1callcenter\bin\Debug\CRM_1callcenter.pdb
+D:\GitProject\1callcenter\CRM_1callcenter\CRM_1callcenter\obj\Debug\CRM_1callcenter.csprojResolveAssemblyReference.cache
+D:\GitProject\1callcenter\CRM_1callcenter\CRM_1callcenter\obj\Debug\CRM_1callcenter.Autorization.resources
+D:\GitProject\1callcenter\CRM_1callcenter\CRM_1callcenter\obj\Debug\CRM_1callcenter.MainForm.resources
+D:\GitProject\1callcenter\CRM_1callcenter\CRM_1callcenter\obj\Debug\CRM_1callcenter.Properties.Resources.resources
+D:\GitProject\1callcenter\CRM_1callcenter\CRM_1callcenter\obj\Debug\CRM_1callcenter.WorkProject.resources
+D:\GitProject\1callcenter\CRM_1callcenter\CRM_1callcenter\obj\Debug\CRM_1callcenter.csproj.GenerateResource.Cache
+D:\GitProject\1callcenter\CRM_1callcenter\CRM_1callcenter\obj\Debug\CRM_1callcenter.exe
+D:\GitProject\1callcenter\CRM_1callcenter\CRM_1callcenter\obj\Debug\CRM_1callcenter.pdb
